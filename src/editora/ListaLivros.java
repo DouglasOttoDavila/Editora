@@ -6,7 +6,6 @@ public class ListaLivros {
 
     private ArrayList<Livro> livros;
 
-	// construtor que inicializa o atributo(vari�vel)
 	public ListaLivros() {
 		livros = new ArrayList<Livro>();
 	}

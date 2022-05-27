@@ -6,7 +6,6 @@ public class ListaEditoras {
 
     private ArrayList<Editora> editoras;
 
-	// construtor que inicializa o atributo(vari�vel)
 	public ListaEditoras() {
 		editoras = new ArrayList<Editora>();
 	}
