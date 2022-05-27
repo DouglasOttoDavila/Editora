@@ -1,18 +1,10 @@
-## Getting Started
+## Atividade de Programação Orientada a Objeto (POO)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- UniRitter
+- Professor Victor
 
-## Folder Structure
+## (2,0) Implemente um algoritmo utilizando o paradigma orientado a objetos testando e apresentando Visibilidade e Ocultamento de Informação: public e private.
 
-The workspace contains two folders by default, where:
+Observe o UML abaixo e baseado nele construía o algoritmo na linguagem Java. Print a tela do computador com o desenvolvimento do código.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://i.ibb.co/mCDpLhm/Screenshot-35.jpg
