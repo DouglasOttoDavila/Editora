@@ -1,7 +1,7 @@
 ## Atividade de Programação Orientada a Objeto (POO)
 
 - UniRitter
-- Professor Victor
+- Professor Vitor
 
 ## (2,0) Implemente um algoritmo utilizando o paradigma orientado a objetos testando e apresentando Visibilidade e Ocultamento de Informação: public e private.
 
